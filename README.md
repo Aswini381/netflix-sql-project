@@ -18,5 +18,23 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 
 ```sql
-select * from netflix;
+drop table if exists netflix;
+create table netflix(
+show_id varchar(6),
+type varchar(10),
+title varchar(150),
+director varchar(210),
+cast varchar(1000),
+country varchar(150),
+date_added varchar(50),
+release_year  int,
+rating varchar(10),
+duration varchar(50),
+listed_in varchar(100),
+description varchar(250)
+);
 ```
+
+## Business Problems and Solutions
+
+** question**
