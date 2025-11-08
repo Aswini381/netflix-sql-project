@@ -196,4 +196,7 @@ order by total_content;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
+## Author - Aswini
+
+I'm passinate about SQL and interesting to work real world problems.
 
