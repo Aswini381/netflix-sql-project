@@ -17,5 +17,6 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 ## Schema
 
 
-'''sql
+```sql
 select * from netflix;
+```
