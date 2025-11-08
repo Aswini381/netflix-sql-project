@@ -37,4 +37,11 @@ description varchar(250)
 
 ## Business Problems and Solutions
 
-1. Count the number od movies vs TV shows
+1. Count the number od movies vs TV shows.
+
+```sql
+select type,
+count(*) as total_content
+from netflix
+group by type;
+```
