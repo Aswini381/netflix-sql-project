@@ -37,4 +37,4 @@ description varchar(250)
 
 ## Business Problems and Solutions
 
-** question**:
+1. Count the number od movies vs TV shows
